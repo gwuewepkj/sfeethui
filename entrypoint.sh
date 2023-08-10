@@ -2,9 +2,9 @@
 
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}  # WS 路径前缀。(注意:伪装路径不需要 / 符号开始,为避免不必要的麻烦,请不要使用特殊符号.)
-UUID=${UUID:-'de04add9-5c68-8bab-950c-08cd5320df18'}
-WEB_USERNAME=${WEB_USERNAME:-'admin'}
-WEB_PASSWORD=${WEB_PASSWORD:-'password'}
+UUID=${UUID:-'6f264617-b04f-42dd-aeda-c5dfcc23ac40'}
+WEB_USERNAME=${WEB_USERNAME:-'6f264617-b04f-42dd-aeda-c5dfcc23ac40'}
+WEB_PASSWORD=${WEB_PASSWORD:-'6f264617-b04f-42dd-aeda-c5dfcc23ac40'}
 
 # 生成 web.js 配置文件
 generate_config() {
